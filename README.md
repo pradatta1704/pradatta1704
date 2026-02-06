@@ -103,9 +103,6 @@ I work close to the system layer — from Linux servers and containers to CI/CD 
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=22c55e&height=2" />
-</p>
 
 <p align="center">
   <em>“Build infrastructure that scales — and sleeps peacefully.”</em>
