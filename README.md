@@ -108,7 +108,3 @@ I work close to the system layer — from Linux servers and containers to CI/CD 
   <em>“Build infrastructure that scales — and sleeps peacefully.”</em>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pradatta1704&show_icons=true&theme=tokyonight" width="420"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pradatta1704&theme=tokyonight" width="420"/>
-</p>
