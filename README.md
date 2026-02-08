@@ -36,6 +36,49 @@ I work close to the system layer — from Linux servers and containers to CI/CD 
 
 ---
 
+---
+
+## 🧰 Skills & Technologies
+
+<table>
+  <tr>
+    <td><strong>Cloud Platforms</strong></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=aws,openstack,azure" /></td>
+  </tr>
+
+  <tr>
+    <td><strong>Operating Systems</strong></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,amazonlinux,centos,fedora" /></td>
+  </tr>
+
+  <tr>
+    <td><strong>Containers & Orchestration</strong></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=docker,podman,kubernetes" /></td>
+  </tr>
+
+  <tr>
+    <td><strong>CI/CD & Automation</strong></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=jenkins,githubactions,bash,python" /></td>
+  </tr>
+
+  <tr>
+    <td><strong>Web & Infrastructure</strong></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=nginx,apache,terraform,ansible" /></td>
+  </tr>
+
+  <tr>
+    <td><strong>Monitoring & Observability</strong></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=prometheus,grafana,cloudwatch" /></td>
+  </tr>
+
+  <tr>
+    <td><strong>Version Control</strong></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=git,github" /></td>
+  </tr>
+</table>
+
+---
+
 ## 🌟 Projects & Work Highlights
 
 <table>
