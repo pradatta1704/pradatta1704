@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=1100&lines=Cloud+Engineer+%7C+DevOps+Engineer;AWS+%7C+Linux+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Automation+%7C+Scalable+Infrastructure" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=cc0000&center=true&vCenter=true&width=1100&lines=Cloud+Engineer+%7C+DevOps+Engineer;AWS+%7C+Linux+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Automation+%7C+Scalable+Infrastructure" />
 </p>
 
 ---
@@ -21,39 +21,22 @@ I work close to the system layer — from Linux servers and containers to CI/CD 
 
 ---
 
-## 🧠 Skills & Technologies
-
-| Domain | Tools |
-|------|------|
-| **Operating Systems** | Linux (RHEL, Ubuntu) |
-| **Cloud Platforms** | AWS (EC2, IAM, VPC, S3) |
-| **Containers & Orchestration** | Docker, Kubernetes |
-| **CI/CD** | Jenkins, GitHub Actions |
-| **Automation & Scripting** | Bash, Python |
-| **Web & Servers** | Apache, Nginx |
-| **Monitoring & Observability** | Prometheus, Grafana |
-| **Version Control** | Git, GitHub |
-
----
-
----
-
 ## 🧰 Skills & Technologies
 
 <table>
   <tr>
     <td><strong>Cloud Platforms</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=aws,openstack,azure" /></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=aws,openstack,azure,gcp" /></td>
   </tr>
 
   <tr>
     <td><strong>Operating Systems</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,amazonlinux,centos,fedora" /></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=apple,windows,linux,ubuntu,redhat" /></td>
   </tr>
 
   <tr>
     <td><strong>Containers & Orchestration</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=docker,podman,kubernetes" /></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=docker,kubernetes" /></td>
   </tr>
 
   <tr>
@@ -63,7 +46,7 @@ I work close to the system layer — from Linux servers and containers to CI/CD 
 
   <tr>
     <td><strong>Web & Infrastructure</strong></td>
-    <td><img height="40" src="https://skillicons.dev/icons?i=nginx,apache,terraform,ansible" /></td>
+    <td><img height="40" src="https://skillicons.dev/icons?i=nginx,terraform,ansible" /></td>
   </tr>
 
   <tr>
@@ -84,7 +67,7 @@ I work close to the system layer — from Linux servers and containers to CI/CD 
 <table>
   <tr>
     <td width="33%">
-      <img src="https://img.icons8.com/ios-filled/100/22c55e/cloud.png" width="50" />
+      <img src="https://img.icons8.com/ios-filled/100/cc0000/cloud.png" width="50" />
       <br />
       <b>AWS Cloud Infrastructure</b><br />
       <sub>EC2 · VPC · IAM · Security Groups</sub>
@@ -92,7 +75,7 @@ I work close to the system layer — from Linux servers and containers to CI/CD 
       Designed and managed secure, cost-optimized AWS infrastructure.
     </td>
     <td width="33%">
-      <img src="https://img.icons8.com/ios-filled/100/22c55e/docker.png" width="50" />
+      <img src="https://img.icons8.com/ios-filled/100/6fa8dc/docker.png" width="50" />
       <br />
       <b>Containerized Applications</b><br />
       <sub>Docker · Linux</sub>
@@ -146,6 +129,14 @@ I work close to the system layer — from Linux servers and containers to CI/CD 
 
 ---
 
+## GitHub Activity
+
+<p align="center">
+ 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pradatta1704&theme=default" width="420"/>
+</p>
+
+---
 
 <p align="center">
   <em>“Build infrastructure that scales — and sleeps peacefully.”</em>
