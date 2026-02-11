@@ -75,7 +75,7 @@ I work close to the system layer — from Linux servers and containers to CI/CD 
       Designed and managed secure, cost-optimized AWS infrastructure.
     </td>
     <td width="33%">
-      <img src="https://img.icons8.com/ios-filled/100/6fa8dc/docker.png" width="50" />
+      <img src="https://img.icons8.com/ios-filled/100/0d8ff0/docker.png" width="50" />
       <br />
       <b>Containerized Applications</b><br />
       <sub>Docker · Linux</sub>
@@ -83,7 +83,7 @@ I work close to the system layer — from Linux servers and containers to CI/CD 
       Built containerized workloads for consistent deployments.
     </td>
     <td width="33%">
-      <img src="https://img.icons8.com/ios-filled/100/22c55e/flow-chart.png" width="50" />
+      <img src="https://img.icons8.com/ios-filled/100/ea6002/flow-chart.png" width="50" />
       <br />
       <b>CI/CD Pipelines</b><br />
       <sub>Jenkins · GitHub Actions</sub>
@@ -93,7 +93,7 @@ I work close to the system layer — from Linux servers and containers to CI/CD 
   </tr>
   <tr>
     <td width="33%">
-      <img src="https://img.icons8.com/ios-filled/100/22c55e/server.png" width="50" />
+      <img src="https://img.icons8.com/ios-filled/100/ffffff/server.png" width="50" />
       <br />
       <b>Linux Server Administration</b><br />
       <sub>RHEL · Apache · Bash</sub>
@@ -109,7 +109,7 @@ I work close to the system layer — from Linux servers and containers to CI/CD 
       Implemented metrics and alerts for system reliability.
     </td>
     <td width="33%">
-      <img src="https://img.icons8.com/ios-filled/100/22c55e/settings.png" width="50" />
+      <img src="https://img.icons8.com/ios-filled/100/990000/settings.png" width="50" />
       <br />
       <b>Infrastructure Automation</b><br />
       <sub>Bash · Python</sub>
