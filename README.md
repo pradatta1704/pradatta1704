@@ -9,6 +9,8 @@
 
 ---
 
+## 👋 Hi, I’m Pradatta
+
 ## 🚀 About Me
 
 > ☁️ **Cloud Engineer | DevOps Engineer**
